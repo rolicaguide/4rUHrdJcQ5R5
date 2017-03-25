@@ -1,0 +1,726 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Arena sport 1 HD">
+    <display-name lang="en">Arena Sport 1 HD</display-name>
+    <url>http://www.mts.rs</url>
+  </channel>
+  <channel id="Arena sport 2 HD">
+    <display-name lang="en">Arena Sport 2 HD</display-name>
+    <url>http://www.mts.rs</url>
+  </channel>
+  <channel id="Arena sport 3 HD">
+    <display-name lang="en">Arena Sport 3 HD</display-name>
+    <url>http://www.mts.rs</url>
+  </channel>
+  <channel id="Arena sport 4 HD">
+    <display-name lang="en">Arena Sport 4 HD</display-name>
+    <url>http://www.mts.rs</url>
+  </channel>
+  <programme start="20170325000000 +0100" stop="20170325001500 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Pregled Endesa lige</title>
+    <desc lang="en">Španska košarkaška liga osnovana je 1957. godine kao ''Liga National'' te je današnji format dobila 1983. godine kada organizacija ACB preuzima kontrolu nad takmičenjem. Prema bodovanju, Liga ACB jedna je od tri najbolje evropske lige. Trenutno u ligi sudeluje 18 ekipa koje u toku sezone po dva puta igraju međusobno. Ekipa sa najviše osvojenih titula je madridski Real ali u stopu ga prati i Barselona. Španska liga kroz istoriju nam je dala neke od najvećih svetskih igrača i trenera</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325001500 +0100" stop="20170325024000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Butler - North Carolina</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325024000 +0100" stop="20170325050000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">UCLA - Kentucky</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325050000 +0100" stop="20170325060000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Pjongčan, 2017: Skeleton, 2. trka (m)</title>
+    <date>2017</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325060000 +0100" stop="20170325063000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Sporting Greats</title>
+    <desc lang="en">Sve što vas je zanimalo o najuspešnijim ''modernim gladijatorima'' možete videti u dokumentarnoj emisiji ''Sporting Greats''. Ova emisija prikazuje reportaže o karijerama celog niza svetski uspešnih sportista u njihovim sportovima. Da bi dosegli zvezde u njihovim sportovima potreban je celi niz faktora koji bi se trebali poklopiti. Koja je tajna uspeha sportista i na koje su sve poteškoće nailazili u svojim nadasve velikim karijerama, proverite uz vaše male ekrane</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20170325063000 +0100" stop="20170325070000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Masters of European Football</title>
+    <desc lang="en">''Union of European Football Associations'' ili skraćeno UEFA je najviša evropska fudbalska organizacija koja pripada Fifi kao jedna od šest njenih kontinentalnih članica. UEFA ima preko 50 članica, a među njima pripadaju neke zemlje koje se geografski nalaze u Aziji. UEFA organizuje za svoje članice niz klupskih i internacionalnih turnira. Njena najznačajnija takmičenja su Evropsko prvenstvo, Liga šampiona, Liga Evrope i Super kup. Osim organizacije UEFA je na tim takmičenjima zadužena za nagradni fond, pravila i medijskih prava. Osnovana je 1954. godine i sedište joj je u švajcarskom gradu Nionu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325070000 +0100" stop="20170325073000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325073000 +0100" stop="20170325080000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Emisija</title>
+    <desc lang="en">Na predlog francuskog novinara Gabriela Hanota 1955. godine osnovan je Kup prvaka, godišnje kontinentalno takmičenje u kojem nastupaju samo prvaci svojih država. Medijskom popularizacijom ovog formata 1992. godine osnovana je UEFA Liga šampiona, takmičenje za sve najbolje klubove Evrope. Plasman u Ligu šampiona klubovi ostvaruju rezultatom na ligaškim takmičenjima svoje države. Finale Lige šampiona postalo je televizijski najgledaniji fudbalski događaj na planeti. Najviše osvojenih titula prvaka Evrope ima madridski velikan Real</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325080000 +0100" stop="20170325083000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">FIFA Football Magazin</title>
+    <desc lang="en">U emisiji FIFA magazin možete u tridesetak minuta videti vesti i zanimljive priče sa fudbalskih meridijana širom sveta. Od najpopularnijih klubova i reprezentacija do onih mesta gde je ovaj sport još uvek na niskim granama. Možete saznati od toga ko će debitivati za reprezentaciju Nemačke, ko je napravio disciplinski prekršaj u Realu ili Čelsiju do škole fudbala za najmlađe u sirotištu u Malaviju ili kako se ženska populacija sve više i ozbiljnije bavi fudbalom u Južnoj Koreji</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325083000 +0100" stop="20170325090000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Sport Stars Uncovered (2014)</title>
+    <date>2014</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325090000 +0100" stop="20170325103000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Mladost - Borac</title>
+    <desc lang="en">Srbija ima svoju prvu košarkašku ligu kao najviši rang profesionalne košarke u toj zemlji. Sama liga osnovana je 2006. godine i kao takva broji 14 timova. Takmičenje se odvija po dvokružnom bod sistemu te je u međusobnim susretima svaki klub jedan put domaćin i po jednom gost. Zanimljivost je što u ovom delu takmičenja ne nastupaju i srpski klubovi koji igraju regionalnu ABA ligu. Nakon prvog dela četiri najbolja kluba se plasiraju u Superligu u kojoj se tek tada priključuju klubovi koji su igrali regionalno takmičenje i u toj fazi se odlučuje o prvaku Srbije. Broj klubova koji će se plasirati u Superligu zavisi o broju predstavnika u regionalnoj ligi, no u tom delu takmičenja se uvek nalazi 8 timova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325103000 +0100" stop="20170325110000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Arena Sport: Vesti</title>
+    <desc lang="en">Ako ste iz bilo kog razloga u toku dana propustili neki sportski događaj, mi nismo. Svakog dana od 22:55 na nasem prvom kanalu u okviru Arena Newsa Sanja Grujić, Andjela Andjelković, Boban Stefanović, Ranko Ivanić i Ognjen Drasković saopštavaju vam najaktuelnije informacije iz sveta sporta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325110000 +0100" stop="20170325130000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Trinidad and Tobago - Panama</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325130000 +0100" stop="20170325150000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Argentina - Čile</title>
+    <desc lang="en">U kvalifikacijama južnoameričke zone FIFA svetskog kupa 2014 imamo 9 timova koji se bore za mesto u finalu koje se održava u Brazilu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325150000 +0100" stop="20170325170000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Srbija - Švedska</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325170000 +0100" stop="20170325180000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Arena Sport: Studio</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325180000 +0100" stop="20170325200000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Crvena Zvezda - Spartak Moskva</title>
+    <desc lang="en">Prijateljska utakmica je sportski događaj koji nije takmičarski značajan ni za jednog od učesnika, bez obzira na konačni ishod. Prijateljske fudbalske utakmice se koriste za uigravanje timova za novu sezonu ili takmičarski meč</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325200000 +0100" stop="20170325220000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Partizan - Cedevita</title>
+    <desc lang="en">ABA liga je osnovana od strane najboljih košarkaških klubova iz Bosne i Hercegovine, Crne Gore, Hrvatske, Srbije i Slovenije. Kao takva sastoji se od klubova sa prostora bivše SFRJ te su u njoj još učestvovali predstavnici Mađarske, Bugarske, Izraela i Češke. U nekoliko navrata je menjala i naziv u zavisnosti od sponzora, a danas joj je službeni naziv ''Adriatic Basketball Association (ABA) League''. Takmičenje se igra u dva dela, prvi deo se odvija tako što sve ekipe igraju po dve utakmice, svako, sa svakim, jednu na domaćem i jednu na gostujućem terenu, odnosno po dvokružnom liga sistemu. Drugio deo takmičenja odnosno plejof se razlikovao od sezone do sezone</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325220000 +0100" stop="20170325223000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Emisija</title>
+    <desc lang="en">Na predlog francuskog novinara Gabriela Hanota 1955. godine osnovan je Kup prvaka, godišnje kontinentalno takmičenje u kojem nastupaju samo prvaci svojih država. Medijskom popularizacijom ovog formata 1992. godine osnovana je UEFA Liga šampiona, takmičenje za sve najbolje klubove Evrope. Plasman u Ligu šampiona klubovi ostvaruju rezultatom na ligaškim takmičenjima svoje države. Finale Lige šampiona postalo je televizijski najgledaniji fudbalski događaj na planeti. Najviše osvojenih titula prvaka Evrope ima madridski velikan Real</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325223000 +0100" stop="20170325225500 +0100" channel="Arena sport 1 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325225500 +0100" stop="20170325233000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Arena Sport: Vesti</title>
+    <desc lang="en">Ako ste iz bilo kog razloga u toku dana propustili neki sportski događaj, mi nismo. Svakog dana od 22:55 na nasem prvom kanalu u okviru Arena Newsa Sanja Grujić, Andjela Andjelković, Boban Stefanović, Ranko Ivanić i Ognjen Drasković saopštavaju vam najaktuelnije informacije iz sveta sporta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325233000 +0100" stop="20170326013000 +0100" channel="Arena sport 1 HD">
+    <title lang="en">Brisbane Roar FC - Melbourne Victory</title>
+    <desc lang="en">Australijska fudbalska liga osnovana je 2004. godine te broji devet klubova iz Australije i jedan sa Novog Zelanda. Prva je po rangu profesionalna divizija u Australiji te je zatvorenog tipa i ne deluje po principu promocije i ispadanja u niži rang takmičenja. Najuspešniji klubovi u sezoni obezbeđuju nastup u Azijskoj ligi šampiona. Sa prosečnom gledanošću od preko 13 000 ljudi po meču australijska liga beleži sve veći rast medijske pažnje i kvaliteta fudbalske igre</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326013000 +0100" stop="20170326015900 +0100" channel="Arena sport 1 HD">
+    <title lang="en">ABS Show</title>
+    <desc lang="en">-- Changed stoptime! -- . Trku automobila možemo definisati kao trku dva ili više samostalno pogonjena vozila na unapred određenoj ruti. Prva takva trka dogodila se 1867. godine između Eštona i Old Traforda u Mančesteru na udaljenosti od osam milja, a pobedilo je vozilo engleskog pronalazača Isaka Vata Boultona. Razvojem automobilske industrije trke su postajale sve brže, mnogobrojnije, duže, kompleksnije i posećenije. Danas je automobilski sport jedan od medijski najpopraćenijih te svake godine privlači milione pristalica širom sveta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326030000 +0200" stop="20170326050000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Košarka - NCAA</title>
+    <desc lang="en">-- Changed starttime! -- . NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326050000 +0200" stop="20170326070000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Boca Juniors - Talleres Cordoba</title>
+    <desc lang="en">Prva zemlja izvan Ujedinjenog Kraljevstva koja je uspostavila svoju fudbalsku ligu je Argentina. Bilo je to davne 1891. godine te su pravo nastupa imale samo ekipe iz Buenos Ajresa i Rosarija. 1931. godine kada 18 klubova prelazi iz amaterskog u profesionalni rang argentinska liga dobija preteču svoje današnje verzije. Od 2014. godine liga broji 30 ekipa koje se u jednokružnom sistemu bore za titulu prvaka Argentine. Najviše titula broji legendarni River Plate iz Buenos Ajresa ali ga u stopu prati i njegov najveći rival Boka Juniors</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326070000 +0200" stop="20170326090000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Palmeiras - Audax</title>
+    <desc lang="en">Najstarija fudbalska liga u Brazila pod nazivom ''Campeonato Paulista'' započela je svoju prvu sezonu davne 1902. godine. Klubovi su se profesionalizovali nešto kasnije odnosno 30ih godina 20. veka. Ova liga obuhvata klubove brazilske države Sao Paolo unutar koje se više od jednog veka vodi žestoko suparništvo između 4 kluba od kojih svaki ima preko 20 titula. To su Korintians, Palmeiras, Santos i Sao Paolo. Iako je popularnost u opadanju i služi za zagrevanje za popularnije brazilsko nacionalno prvenstvo i Kopa Libertadores, Paulista je i dalje veliki rasadnik fudbalskih talenata koji bude interes brojnih evropskih klubova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326090000 +0200" stop="20170326103000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Partizan - Cedevita</title>
+    <desc lang="en">ABA liga je osnovana od strane najboljih košarkaških klubova iz Bosne i Hercegovine, Crne Gore, Hrvatske, Srbije i Slovenije. Kao takva sastoji se od klubova sa prostora bivše SFRJ te su u njoj još učestvovali predstavnici Mađarske, Bugarske, Izraela i Češke. U nekoliko navrata je menjala i naziv u zavisnosti od sponzora, a danas joj je službeni naziv ''Adriatic Basketball Association (ABA) League''. Takmičenje se igra u dva dela, prvi deo se odvija tako što sve ekipe igraju po dve utakmice, svako, sa svakim, jednu na domaćem i jednu na gostujućem terenu, odnosno po dvokružnom liga sistemu. Drugio deo takmičenja odnosno plejof se razlikovao od sezone do sezone</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326103000 +0200" stop="20170326110000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Arena Sport: Vesti</title>
+    <desc lang="en">Ako ste iz bilo kog razloga u toku dana propustili neki sportski događaj, mi nismo. Svakog dana od 22:55 na nasem prvom kanalu u okviru Arena Newsa Sanja Grujić, Andjela Andjelković, Boban Stefanović, Ranko Ivanić i Ognjen Drasković saopštavaju vam najaktuelnije informacije iz sveta sporta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326110000 +0200" stop="20170326121500 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Mladost - Mornar</title>
+    <desc lang="en">Jadranska vaterpolo liga ili sponzorski naziv Triglav regionalna liga je regionalno vaterpolo takmičenje u kojoj se od jeseni 2008. godine takmiče crnogorski, hrvatski, slovenački klubovi, kasnije i talijanski te srpski klubovi. Prva sezona, koja je počela 26. septembra 2008., okupljala je 12 klubova, 8 iz Hrvatske, 3 iz Crne Gore i 1 iz Slovenije. Za godinu osnitka se uzima ista ta 2008. godina kada je odluka donešena u Dubrovniku na kvalifikacionom turniru za Evropsko prvenstvo. Nakon prve sezone ligi su se priključili i italijanski predstavnici koji si ubrzo odustali, dok od 2014. godine liga broji i klubove iz Srbije</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326121500 +0200" stop="20170326123000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Pregled Endesa lige</title>
+    <desc lang="en">Španska košarkaška liga osnovana je 1957. godine kao ''Liga National'' te je današnji format dobila 1983. godine kada organizacija ACB preuzima kontrolu nad takmičenjem. Prema bodovanju, Liga ACB jedna je od tri najbolje evropske lige. Trenutno u ligi sudeluje 18 ekipa koje u toku sezone po dva puta igraju međusobno. Ekipa sa najviše osvojenih titula je madridski Real ali u stopu ga prati i Barselona. Španska liga kroz istoriju nam je dala neke od najvećih svetskih igrača i trenera</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326123000 +0200" stop="20170326143000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Barcelona Lassa - MoraBanc Andorra</title>
+    <desc lang="en">Španska košarkaška liga osnovana je 1957. godine kao ''Liga National'' te je današnji format dobila 1983. godine kada organizacija ACB preuzima kontrolu nad takmičenjem. Prema bodovanju, Liga ACB jedna je od tri najbolje evropske lige. Trenutno u ligi sudeluje 18 ekipa koje u toku sezone po dva puta igraju međusobno. Ekipa sa najviše osvojenih titula je madridski Real ali u stopu ga prati i Barselona. Španska liga kroz istoriju nam je dala neke od najvećih svetskih igrača i trenera</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326143000 +0200" stop="20170326150000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326150000 +0200" stop="20170326164500 +0200" channel="Arena sport 1 HD">
+    <title lang="en">HC Meshkov Brest - SG Flensburg-Handewitt</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326164500 +0200" stop="20170326173000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Pregled Lige šampiona</title>
+    <desc lang="en">Na predlog francuskog novinara Gabriela Hanota 1955. godine osnovan je Kup prvaka, godišnje kontinentalno takmičenje u kojem nastupaju samo prvaci svojih država. Medijskom popularizacijom ovog formata 1992. godine osnovana je UEFA Liga šampiona, takmičenje za sve najbolje klubove Evrope. Plasman u Ligu šampiona klubovi ostvaruju rezultatom na ligaškim takmičenjima svoje države. Finale Lige šampiona postalo je televizijski najgledaniji fudbalski događaj na planeti. Najviše osvojenih titula prvaka Evrope ima madridski velikan Real</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326173000 +0200" stop="20170326180000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Magazin</title>
+    <desc lang="en">FINA ili Međunarodna plivačka organizacija od 1973. godine organizuje Svetska prvenstva u vodenim sportovima, ujedno prvo takmičenje se održalo te godine u Jugoslaviji u Beogradu. Takmičenja su se u periodu od 1978.-1998. godine održavala svake četvrte godine, dok od 2001. godine se održavaju svake dve neparne godine kako se ne bi termini poklapali sa olimpijskim igrama. Velika zainteresovanost za ovo prvenstvo proizlazi iz velikog broja plivačkih disciplina i takmičenja koje se održavaju. Na programu su plivanje, ronjenje, duboko ronjenje, plivanje na otvorenom, sinhronizovano plivanje i vaterpolo</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326180000 +0200" stop="20170326200000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">AEK - Panathinaikos</title>
+    <desc lang="en">Grčka A1 pod nadzorom HEBE (Grčki košarkaški savez) smatra se jednom od najjačih liga sveta nakon neprikosnovene američke NBA lige. Liga se sastoji od 14 timova i igra se u periodu od oktobra do juna u kojem svaki tim odigra 26 utakmica za vreme regularnog dela. Nakon što su sve ekipe odigrale međusobno po dva susreta na domaćem i gostujućem terenu po osam timova igra plejof u kojemu se dobija prvak. Prvo službeno takmičenje se održalo u sezoni 1927-1928, dok se plejof pojavio tek 1986-1987. godine. Uz mega popularne ekipe Panatinajkos i Olimpijakos tu se nalaze još i timovi kao što su Aris i AEK koji su ostavili trag u evropskoj košarci</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326200000 +0200" stop="20170326203000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Pregled ABA lige</title>
+    <desc lang="en">Pregled poslednjeg kola najjačeg klubskog takmičenja u regionu, rezltati, potezi i sve ono što je obeležilo nedelju za nama</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326203000 +0200" stop="20170326210000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">FIFA Football Magazin</title>
+    <desc lang="en">U emisiji FIFA magazin možete u tridesetak minuta videti vesti i zanimljive priče sa fudbalskih meridijana širom sveta. Od najpopularnijih klubova i reprezentacija do onih mesta gde je ovaj sport još uvek na niskim granama. Možete saznati od toga ko će debitivati za reprezentaciju Nemačke, ko je napravio disciplinski prekršaj u Realu ili Čelsiju do škole fudbala za najmlađe u sirotištu u Malaviju ili kako se ženska populacija sve više i ozbiljnije bavi fudbalom u Južnoj Koreji</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326210000 +0200" stop="20170326225500 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Sao Paulo - Corinthians</title>
+    <desc lang="en">Najstarija fudbalska liga u Brazila pod nazivom ''Campeonato Paulista'' započela je svoju prvu sezonu davne 1902. godine. Klubovi su se profesionalizovali nešto kasnije odnosno 30ih godina 20. veka. Ova liga obuhvata klubove brazilske države Sao Paolo unutar koje se više od jednog veka vodi žestoko suparništvo između 4 kluba od kojih svaki ima preko 20 titula. To su Korintians, Palmeiras, Santos i Sao Paolo. Iako je popularnost u opadanju i služi za zagrevanje za popularnije brazilsko nacionalno prvenstvo i Kopa Libertadores, Paulista je i dalje veliki rasadnik fudbalskih talenata koji bude interes brojnih evropskih klubova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326225500 +0200" stop="20170326233000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Arena Sport: Vesti</title>
+    <desc lang="en">Ako ste iz bilo kog razloga u toku dana propustili neki sportski događaj, mi nismo. Svakog dana od 22:55 na nasem prvom kanalu u okviru Arena Newsa Sanja Grujić, Andjela Andjelković, Boban Stefanović, Ranko Ivanić i Ognjen Drasković saopštavaju vam najaktuelnije informacije iz sveta sporta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326233000 +0200" stop="20170327001000 +0200" channel="Arena sport 1 HD">
+    <title lang="en">Regionalna liga: Pregled</title>
+    <desc lang="en">Roki Markiano, Majk Tajson, Šugar Rej Robinson, Muhamed Ali, Džo Luis. Treba li još koji razlog više da bi pratili ovu plemenitu borilačku veštinu? Prve tragove boksa nalazimo već u trećem veku pre Hrista na sumeranskim crtežima. U modernom dobu prva pravila boksa ustanovljena su 18. veku u Londonu i definišu prostor borbe, opremu te nedozvoljene i dozvoljene vrste udaraca. Ne propustite svaku priliku da uživate u ovom uzbudljivom sportu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325000000 +0100" stop="20170325023000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">NY Islanders - Pittsburgh</title>
+    <desc lang="en">''Natonal Hockey League'' je najprestižnije klupsko hokejaško takmičenje na svetu koje datira još iz 1917. godine kada je takmičenje formirano i funkcionisalo je sa još dve severnoameričke hokejšake asocijacije. Od 1926. NHL postaje glavna i najznačajnija hokejaška asocijacija i samim time takmičenje u Severnoj Americi. Samo takmičenje je podeljeno u dve divizije, zapadnu i istočnu te se nakon regularnog dela igra plejof za trofej Stenli kupa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325023000 +0100" stop="20170325033000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Rand University</title>
+    <desc lang="en">Legenda američkog fudbala Rendi Mos koji se proslavio na poziciji krilnog hvatača, i priča o njegovom skromnom poreklu i odrastanju u Zapadnoj Virdžiniji</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325033000 +0100" stop="20170325043000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pjongčan, 2017: Bob, dvosed, 2. trka (m)</title>
+    <date>2017</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325043000 +0100" stop="20170325060000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Magdeburg - Flensburg</title>
+    <desc lang="en">Rukometna Bundesliga je najviši rang rukometnih takmičenja u Nemačkoj. Uz špansku ligu Bundesliga se smatra najboljom evropskom ligom. Osnovana je 1965. godine kao odvojeno takmičenje severne i južne regije. Tek od 1977. deluje kao jedinstveno takmičenje. Trenutno broji 19 ekipa u dvokružnom sistemu takmičenja. Najviše osvojenih titula broji rukometni klub Kil. Visok kvalitet rukometne igre i ispunjene tribine razlog su zašto je Bundesliga toliko praćena u celom svetu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325060000 +0100" stop="20170325074500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Cedevita - Partizan</title>
+    <desc lang="en">Pobeda nad Zvezdom imaće smisla, samo ako se trijumfuje u Zagrebu. U suprotnom, crno-beli će pasti na treće mesto</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325074500 +0100" stop="20170325081500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pregled ABA lige</title>
+    <desc lang="en">Pregled poslednjeg kola najjačeg klubskog takmičenja u regionu, rezltati, potezi i sve ono što je obeležilo nedelju za nama</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325081500 +0100" stop="20170325100000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Francuska - Vels</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325100000 +0100" stop="20170325120000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">KOTV Classics</title>
+    <desc lang="en">Roki Markiano, Majk Tajson, Šugar Rej Robinson, Muhamed Ali, Džo Luis. Treba li još koji razlog više da bi pratili ovu plemenitu borilačku veštinu? Prve tragove boksa nalazimo već u trećem veku pre Hrista na sumeranskim crtežima. U modernom dobu prva pravila boksa ustanovljena su 18. veku u Londonu i definišu prostor borbe, opremu te nedozvoljene i dozvoljene vrste udaraca. Ne propustite svaku priliku da uživate u ovom uzbudljivom sportu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325120000 +0100" stop="20170325140000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">NY Islanders - Pittsburgh</title>
+    <desc lang="en">''Natonal Hockey League'' je najprestižnije klupsko hokejaško takmičenje na svetu koje datira još iz 1917. godine kada je takmičenje formirano i funkcionisalo je sa još dve severnoameričke hokejšake asocijacije. Od 1926. NHL postaje glavna i najznačajnija hokejaška asocijacija i samim time takmičenje u Severnoj Americi. Samo takmičenje je podeljeno u dve divizije, zapadnu i istočnu te se nakon regularnog dela igra plejof za trofej Stenli kupa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325140000 +0100" stop="20170325150000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pjongčan, 2017: Bob, četverosed, 2. trka (m)</title>
+    <date>2017</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325150000 +0100" stop="20170325163000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">UCLA - Kentucky</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325163000 +0100" stop="20170325170000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pregled EHF Lige šampiona</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325170000 +0100" stop="20170325184500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Mladost - Borac</title>
+    <desc lang="en">Srbija ima svoju prvu košarkašku ligu kao najviši rang profesionalne košarke u toj zemlji. Sama liga osnovana je 2006. godine i kao takva broji 14 timova. Takmičenje se odvija po dvokružnom bod sistemu te je u međusobnim susretima svaki klub jedan put domaćin i po jednom gost. Zanimljivost je što u ovom delu takmičenja ne nastupaju i srpski klubovi koji igraju regionalnu ABA ligu. Nakon prvog dela četiri najbolja kluba se plasiraju u Superligu u kojoj se tek tada priključuju klubovi koji su igrali regionalno takmičenje i u toj fazi se odlučuje o prvaku Srbije. Broj klubova koji će se plasirati u Superligu zavisi o broju predstavnika u regionalnoj ligi, no u tom delu takmičenja se uvek nalazi 8 timova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325184500 +0100" stop="20170325190000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pregled Endesa lige</title>
+    <desc lang="en">Španska košarkaška liga osnovana je 1957. godine kao ''Liga National'' te je današnji format dobila 1983. godine kada organizacija ACB preuzima kontrolu nad takmičenjem. Prema bodovanju, Liga ACB jedna je od tri najbolje evropske lige. Trenutno u ligi sudeluje 18 ekipa koje u toku sezone po dva puta igraju međusobno. Ekipa sa najviše osvojenih titula je madridski Real ali u stopu ga prati i Barselona. Španska liga kroz istoriju nam je dala neke od najvećih svetskih igrača i trenera</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325190000 +0100" stop="20170325204500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Lemgo - Rhein-Neckar Löwen</title>
+    <desc lang="en">Rukometna Bundesliga je najviši rang rukometnih takmičenja u Nemačkoj. Uz špansku ligu Bundesliga se smatra najboljom evropskom ligom. Osnovana je 1965. godine kao odvojeno takmičenje severne i južne regije. Tek od 1977. deluje kao jedinstveno takmičenje. Trenutno broji 19 ekipa u dvokružnom sistemu takmičenja. Najviše osvojenih titula broji rukometni klub Kil. Visok kvalitet rukometne igre i ispunjene tribine razlog su zašto je Bundesliga toliko praćena u celom svetu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325204500 +0100" stop="20170325224500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">HBC Nantes - PSG</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325224500 +0100" stop="20170325230000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325230000 +0100" stop="20170326010000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">March Madness</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326010000 +0100" stop="20170326033000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Mladost - Mornar</title>
+    <desc lang="en">Jadranska vaterpolo liga ili sponzorski naziv Triglav regionalna liga je regionalno vaterpolo takmičenje u kojoj se od jeseni 2008. godine takmiče crnogorski, hrvatski, slovenački klubovi, kasnije i talijanski te srpski klubovi. Prva sezona, koja je počela 26. septembra 2008., okupljala je 12 klubova, 8 iz Hrvatske, 3 iz Crne Gore i 1 iz Slovenije. Za godinu osnitka se uzima ista ta 2008. godina kada je odluka donešena u Dubrovniku na kvalifikacionom turniru za Evropsko prvenstvo. Nakon prve sezone ligi su se priključili i italijanski predstavnici koji si ubrzo odustali, dok od 2014. godine liga broji i klubove iz Srbije</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326033000 +0100" stop="20170326043000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pjongčan, 2017: Bob, četverosed, 1. trka (m)</title>
+    <date>2017</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326043000 +0100" stop="20170326060000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">THW Kiel - Rhein-Neckar Löwen</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326060000 +0100" stop="20170326074500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Partizan - Cedevita</title>
+    <desc lang="en">ABA liga je osnovana od strane najboljih košarkaških klubova iz Bosne i Hercegovine, Crne Gore, Hrvatske, Srbije i Slovenije. Kao takva sastoji se od klubova sa prostora bivše SFRJ te su u njoj još učestvovali predstavnici Mađarske, Bugarske, Izraela i Češke. U nekoliko navrata je menjala i naziv u zavisnosti od sponzora, a danas joj je službeni naziv ''Adriatic Basketball Association (ABA) League''. Takmičenje se igra u dva dela, prvi deo se odvija tako što sve ekipe igraju po dve utakmice, svako, sa svakim, jednu na domaćem i jednu na gostujućem terenu, odnosno po dvokružnom liga sistemu. Drugio deo takmičenja odnosno plejof se razlikovao od sezone do sezone</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326074500 +0100" stop="20170326081500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326081500 +0100" stop="20170326100000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">NY Islanders - Pittsburgh</title>
+    <desc lang="en">''Natonal Hockey League'' je najprestižnije klupsko hokejaško takmičenje na svetu koje datira još iz 1917. godine kada je takmičenje formirano i funkcionisalo je sa još dve severnoameričke hokejšake asocijacije. Od 1926. NHL postaje glavna i najznačajnija hokejaška asocijacija i samim time takmičenje u Severnoj Americi. Samo takmičenje je podeljeno u dve divizije, zapadnu i istočnu te se nakon regularnog dela igra plejof za trofej Stenli kupa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326100000 +0100" stop="20170326120000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">KOTV Classics</title>
+    <desc lang="en">Roki Markiano, Majk Tajson, Šugar Rej Robinson, Muhamed Ali, Džo Luis. Treba li još koji razlog više da bi pratili ovu plemenitu borilačku veštinu? Prve tragove boksa nalazimo već u trećem veku pre Hrista na sumeranskim crtežima. U modernom dobu prva pravila boksa ustanovljena su 18. veku u Londonu i definišu prostor borbe, opremu te nedozvoljene i dozvoljene vrste udaraca. Ne propustite svaku priliku da uživate u ovom uzbudljivom sportu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326120000 +0100" stop="20170326140000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Philadelphia - Columbus</title>
+    <desc lang="en">''Natonal Hockey League'' je najprestižnije klupsko hokejaško takmičenje na svetu koje datira još iz 1917. godine kada je takmičenje formirano i funkcionisalo je sa još dve severnoameričke hokejšake asocijacije. Od 1926. NHL postaje glavna i najznačajnija hokejaška asocijacija i samim time takmičenje u Severnoj Americi. Samo takmičenje je podeljeno u dve divizije, zapadnu i istočnu te se nakon regularnog dela igra plejof za trofej Stenli kupa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326140000 +0100" stop="20170326143000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">ABS Show</title>
+    <desc lang="en">Trku automobila možemo definisati kao trku dva ili više samostalno pogonjena vozila na unapred određenoj ruti. Prva takva trka dogodila se 1867. godine između Eštona i Old Traforda u Mančesteru na udaljenosti od osam milja, a pobedilo je vozilo engleskog pronalazača Isaka Vata Boultona. Razvojem automobilske industrije trke su postajale sve brže, mnogobrojnije, duže, kompleksnije i posećenije. Danas je automobilski sport jedan od medijski najpopraćenijih te svake godine privlači milione pristalica širom sveta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326143000 +0100" stop="20170326150000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Pregled Bundeslige</title>
+    <desc lang="en">Rukometna Bundesliga je najviši rang rukometnih takmičenja u Nemačkoj. Uz špansku ligu Bundesliga se smatra najboljom evropskom ligom. Osnovana je 1965. godine kao odvojeno takmičenje severne i južne regije. Tek od 1977. deluje kao jedinstveno takmičenje. Trenutno broji 19 ekipa u dvokružnom sistemu takmičenja. Najviše osvojenih titula broji rukometni klub Kil. Visok kvalitet rukometne igre i ispunjene tribine razlog su zašto je Bundesliga toliko praćena u celom svetu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326150000 +0100" stop="20170326164500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Hannover - Kiel</title>
+    <desc lang="en">Rukometna Bundesliga je najviši rang rukometnih takmičenja u Nemačkoj. Uz špansku ligu Bundesliga se smatra najboljom evropskom ligom. Osnovana je 1965. godine kao odvojeno takmičenje severne i južne regije. Tek od 1977. deluje kao jedinstveno takmičenje. Trenutno broji 19 ekipa u dvokružnom sistemu takmičenja. Najviše osvojenih titula broji rukometni klub Kil. Visok kvalitet rukometne igre i ispunjene tribine razlog su zašto je Bundesliga toliko praćena u celom svetu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326164500 +0100" stop="20170326170000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326170000 +0100" stop="20170326184500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Montpellier HB - KS Vive Tauron Kielce</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326184500 +0100" stop="20170326191500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Regionalna liga: Pregled</title>
+    <desc lang="en">Roki Markiano, Majk Tajson, Šugar Rej Robinson, Muhamed Ali, Džo Luis. Treba li još koji razlog više da bi pratili ovu plemenitu borilačku veštinu? Prve tragove boksa nalazimo već u trećem veku pre Hrista na sumeranskim crtežima. U modernom dobu prva pravila boksa ustanovljena su 18. veku u Londonu i definišu prostor borbe, opremu te nedozvoljene i dozvoljene vrste udaraca. Ne propustite svaku priliku da uživate u ovom uzbudljivom sportu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326191500 +0100" stop="20170326204500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Zagreb - Veszprém</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326204500 +0100" stop="20170326211500 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Magazin</title>
+    <desc lang="en">FINA ili Međunarodna plivačka organizacija od 1973. godine organizuje Svetska prvenstva u vodenim sportovima, ujedno prvo takmičenje se održalo te godine u Jugoslaviji u Beogradu. Takmičenja su se u periodu od 1978.-1998. godine održavala svake četvrte godine, dok od 2001. godine se održavaju svake dve neparne godine kako se ne bi termini poklapali sa olimpijskim igrama. Velika zainteresovanost za ovo prvenstvo proizlazi iz velikog broja plivačkih disciplina i takmičenja koje se održavaju. Na programu su plivanje, ronjenje, duboko ronjenje, plivanje na otvorenom, sinhronizovano plivanje i vaterpolo</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326211500 +0100" stop="20170326230000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Košarka - NCAA</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326230000 +0100" stop="20170327010000 +0100" channel="Arena sport 2 HD">
+    <title lang="en">Zemun - Inđija</title>
+    <desc lang="en">Druga po redu na piramidi fudbalskog takmičenja u Srbiji je Prva liga Srbije. Osnovana je 2004. godine raspadom tadašnje države. U današnjem formatu liga broji 16 ekipa u dvokružnom sistemu takmičenja. Dve najbolje plasirane ekipe obezbeđuju direktan plasman u viši rang takmičenja dok trećeplasirani može kroz baraž sa 14. ekipom iz Superlige izboriti nastup u elitnom rangu srpskog fudbala. Neki od najboljih i najcenjenijih srpskih igrača prošli su drugoligaško fudbalsko odrastanje</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325000000 +0100" stop="20170325020000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Trinidad and Tobago - Panama</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325020000 +0100" stop="20170325040000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Palmeiras - Mirassol</title>
+    <desc lang="en">Najstarija fudbalska liga u Brazila pod nazivom ''Campeonato Paulista'' započela je svoju prvu sezonu davne 1902. godine. Klubovi su se profesionalizovali nešto kasnije odnosno 30ih godina 20. veka. Ova liga obuhvata klubove brazilske države Sao Paolo unutar koje se više od jednog veka vodi žestoko suparništvo između 4 kluba od kojih svaki ima preko 20 titula. To su Korintians, Palmeiras, Santos i Sao Paolo. Iako je popularnost u opadanju i služi za zagrevanje za popularnije brazilsko nacionalno prvenstvo i Kopa Libertadores, Paulista je i dalje veliki rasadnik fudbalskih talenata koji bude interes brojnih evropskih klubova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325040000 +0100" stop="20170325060000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Dijon - Saint-Etienne</title>
+    <desc lang="en">Ligue 1 prva je francuska profesionalna fudbalska liga koja broji 20 ekipa u borbi za titulom prvaka Francuske. Osnovana je 1932. godine i smatra se jednom od najcenjenijih evropskih liga. Najtrofejniji klub s deset osvojenih titula je AS Sent Etjen ali ''Zeleni'' na novu titulu čekaju još od davne 1981. godine i vremena velikog Mišela Platinija. Susreti francuske lige nezaobilazan su događaj za svakog ljubitelja ove veličanstvene igre</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325060000 +0100" stop="20170325080000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Torino - Inter</title>
+    <desc lang="en">Posle solidno odrađenog prelaznog roka ekipa Intera će po prve bodove u sezoni krenuti na gostovanju u Torinu. Nemanja Vidić, Gari Medel, Pablo Osvaldo</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325080000 +0100" stop="20170325100000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Vojvodina - Mladost</title>
+    <desc lang="en">Srpska Superliga svoju premijeru imala je u sezoni 2006.-2007. U današnjem sistemu liga broji 16 ekipa i funkcioniše po dvokružnom principu takmičenju. Istoriju Superlige u najvećoj meri su obeležila dva velika beogradska rivala, Partizan i Crvena Zvezda. Istorijski gledano, po broju osvojenih titula crveno-beli do grada je uspešniji. Najbolji strelac u istoriji lige je Andrija Kaluđerović koji je mrežu protivnika tresao 61 put igrajući za razne prvoligaške klubove</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325100000 +0100" stop="20170325120000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Brisbane Roar FC - Melbourne Victory</title>
+    <desc lang="en">Australijska fudbalska liga osnovana je 2004. godine te broji devet klubova iz Australije i jedan sa Novog Zelanda. Prva je po rangu profesionalna divizija u Australiji te je zatvorenog tipa i ne deluje po principu promocije i ispadanja u niži rang takmičenja. Najuspešniji klubovi u sezoni obezbeđuju nastup u Azijskoj ligi šampiona. Sa prosečnom gledanošću od preko 13 000 ljudi po meču australijska liga beleži sve veći rast medijske pažnje i kvaliteta fudbalske igre</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325120000 +0100" stop="20170325134500 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Boca Juniors - Talleres Cordoba</title>
+    <desc lang="en">Prva zemlja izvan Ujedinjenog Kraljevstva koja je uspostavila svoju fudbalsku ligu je Argentina. Bilo je to davne 1891. godine te su pravo nastupa imale samo ekipe iz Buenos Ajresa i Rosarija. 1931. godine kada 18 klubova prelazi iz amaterskog u profesionalni rang argentinska liga dobija preteču svoje današnje verzije. Od 2014. godine liga broji 30 ekipa koje se u jednokružnom sistemu bore za titulu prvaka Argentine. Najviše titula broji legendarni River Plate iz Buenos Ajresa ali ga u stopu prati i njegov najveći rival Boka Juniors</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325134500 +0100" stop="20170325153000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Toulouse - Rennais</title>
+    <desc lang="en">Ligue 1 prva je francuska profesionalna fudbalska liga koja broji 20 ekipa u borbi za titulom prvaka Francuske. Osnovana je 1932. godine i smatra se jednom od najcenjenijih evropskih liga. Najtrofejniji klub s deset osvojenih titula je AS Sent Etjen ali ''Zeleni'' na novu titulu čekaju još od davne 1981. godine i vremena velikog Mišela Platinija. Susreti francuske lige nezaobilazan su događaj za svakog ljubitelja ove veličanstvene igre</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325153000 +0100" stop="20170325160000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">FIFA Football Magazin</title>
+    <desc lang="en">U emisiji FIFA magazin možete u tridesetak minuta videti vesti i zanimljive priče sa fudbalskih meridijana širom sveta. Od najpopularnijih klubova i reprezentacija do onih mesta gde je ovaj sport još uvek na niskim granama. Možete saznati od toga ko će debitivati za reprezentaciju Nemačke, ko je napravio disciplinski prekršaj u Realu ili Čelsiju do škole fudbala za najmlađe u sirotištu u Malaviju ili kako se ženska populacija sve više i ozbiljnije bavi fudbalom u Južnoj Koreji</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325160000 +0100" stop="20170325180000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Udinese - Palermo</title>
+    <desc lang="en">Seria A je profesionalno fudbalsko takmičenje koje broji 20 ekipa u dvokružnom ligaškom prvenstvu. Još od 1929. godine kada je osnovana, Seria A postala je sinonim za taktički fudbal. Dugi niz godina italijanski fudbal se svojim kvalitetom te nizom sjajnih igrača i trenera smatrao najboljim u Evropi. Padom finansijske moći italijanskih prvoligaša te nizom korupcijskih skandala liga je na kratko pala u kvalitetu, ali se sigurnim koracima vraća na mesto gde i pripada</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325180000 +0100" stop="20170325194500 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Zagreb - Veszprém</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325194500 +0100" stop="20170325200000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Foot Brazil</title>
+    <desc lang="en">''Brasileirao Seria A'' je prva brazilska liga osnovana 1959. godine. Zbog geografskih razloga istorija jedinstve lige na području Brazila relativno je kratka. Tek razvojem civilne avijacije Brazil je dobio jedinstvenu fudbalsku ligu. U ligi trenutno sudeluje 20 ekipa u dvokružnom sistemu takmičenja. Tokom svog postojanja Serija A je fudbalskom svetu dala neke od najboljih igrača u Istoriji. Pele, Sokrates, Garinča i Ronaldinjo samo su jedni od njih. Izrazito napadačka i atraktivna orijentacija igre te fanatična i brojna podrška sa tribina su razlog što je Serija A jedno od najuzbudljivijih takmičenja na planeti</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325200000 +0100" stop="20170325220000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Palmeiras - Audax</title>
+    <desc lang="en">Najstarija fudbalska liga u Brazila pod nazivom ''Campeonato Paulista'' započela je svoju prvu sezonu davne 1902. godine. Klubovi su se profesionalizovali nešto kasnije odnosno 30ih godina 20. veka. Ova liga obuhvata klubove brazilske države Sao Paolo unutar koje se više od jednog veka vodi žestoko suparništvo između 4 kluba od kojih svaki ima preko 20 titula. To su Korintians, Palmeiras, Santos i Sao Paolo. Iako je popularnost u opadanju i služi za zagrevanje za popularnije brazilsko nacionalno prvenstvo i Kopa Libertadores, Paulista je i dalje veliki rasadnik fudbalskih talenata koji bude interes brojnih evropskih klubova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325220000 +0100" stop="20170326000000 +0100" channel="Arena sport 3 HD">
+    <title lang="en">San Lorenzo - Quilmes</title>
+    <desc lang="en">Prva zemlja izvan Ujedinjenog Kraljevstva koja je uspostavila svoju fudbalsku ligu je Argentina. Bilo je to davne 1891. godine te su pravo nastupa imale samo ekipe iz Buenos Ajresa i Rosarija. 1931. godine kada 18 klubova prelazi iz amaterskog u profesionalni rang argentinska liga dobija preteču svoje današnje verzije. Od 2014. godine liga broji 30 ekipa koje se u jednokružnom sistemu bore za titulu prvaka Argentine. Najviše titula broji legendarni River Plate iz Buenos Ajresa ali ga u stopu prati i njegov najveći rival Boka Juniors</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326000000 +0100" stop="20170326014500 +0100" channel="Arena sport 3 HD">
+    <title lang="en">Crvena Zvezda - Spartak Moskva</title>
+    <desc lang="en">Prijateljska utakmica je sportski događaj koji nije takmičarski značajan ni za jednog od učesnika, bez obzira na konačni ishod. Prijateljske fudbalske utakmice se koriste za uigravanje timova za novu sezonu ili takmičarski meč</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326014500 +0100" stop="20170326043000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">MFK Karvina - FC Viktoria Plzen</title>
+    <desc lang="en">Najviši rang takmičenja profesionalnog fudbala u Češkoj oformljen je u sezoni 1993.-1994. nakon raspada Čehoslovačke. Liga broji 16 klubova u dvokružnom sistemu takmičenja te deluje po sistemu promocije i ispadanja u niži rang takmičenja. Češka liga trenutno je rangirana kao 13. po kvalitetu u evropskim okvirima. Ekipe sa najviše osvojenih titula je praška Sparta. Ostali klubovi koji su osvajali titulu prvaka su Viktorija Plzen, Slovan Liberec, Banik Ostrava i Slavija iz Praga</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326043000 +0200" stop="20170326061500 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Venecuela - Peru</title>
+    <desc lang="en">U kvalifikacijama južnoameričke zone FIFA svetskog kupa 2014 imamo 9 timova koji se bore za mesto u finalu koje se održava u Brazilu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326061500 +0200" stop="20170326080000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Milan - Genoa</title>
+    <desc lang="en">Seria A je profesionalno fudbalsko takmičenje koje broji 20 ekipa u dvokružnom ligaškom prvenstvu. Još od 1929. godine kada je osnovana, Seria A postala je sinonim za taktički fudbal. Dugi niz godina italijanski fudbal se svojim kvalitetom te nizom sjajnih igrača i trenera smatrao najboljim u Evropi. Padom finansijske moći italijanskih prvoligaša te nizom korupcijskih skandala liga je na kratko pala u kvalitetu, ali se sigurnim koracima vraća na mesto gde i pripada</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326080000 +0200" stop="20170326100000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Urugvaj - Brazil</title>
+    <desc lang="en">U kvalifikacijama južnoameričke zone FIFA svetskog kupa 2014 imamo 9 timova koji se bore za mesto u finalu koje se održava u Brazilu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326100000 +0200" stop="20170326120000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Perth Glory - Sydney FC</title>
+    <desc lang="en">Australijska fudbalska liga osnovana je 2004. godine te broji devet klubova iz Australije i jedan sa Novog Zelanda. Prva je po rangu profesionalna divizija u Australiji te je zatvorenog tipa i ne deluje po principu promocije i ispadanja u niži rang takmičenja. Najuspešniji klubovi u sezoni obezbeđuju nastup u Azijskoj ligi šampiona. Sa prosečnom gledanošću od preko 13 000 ljudi po meču australijska liga beleži sve veći rast medijske pažnje i kvaliteta fudbalske igre</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326120000 +0200" stop="20170326134500 +0200" channel="Arena sport 3 HD">
+    <title lang="en">San Lorenzo - Quilmes</title>
+    <desc lang="en">Prva zemlja izvan Ujedinjenog Kraljevstva koja je uspostavila svoju fudbalsku ligu je Argentina. Bilo je to davne 1891. godine te su pravo nastupa imale samo ekipe iz Buenos Ajresa i Rosarija. 1931. godine kada 18 klubova prelazi iz amaterskog u profesionalni rang argentinska liga dobija preteču svoje današnje verzije. Od 2014. godine liga broji 30 ekipa koje se u jednokružnom sistemu bore za titulu prvaka Argentine. Najviše titula broji legendarni River Plate iz Buenos Ajresa ali ga u stopu prati i njegov najveći rival Boka Juniors</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326134500 +0200" stop="20170326153000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Palmeiras - Audax</title>
+    <desc lang="en">Najstarija fudbalska liga u Brazila pod nazivom ''Campeonato Paulista'' započela je svoju prvu sezonu davne 1902. godine. Klubovi su se profesionalizovali nešto kasnije odnosno 30ih godina 20. veka. Ova liga obuhvata klubove brazilske države Sao Paolo unutar koje se više od jednog veka vodi žestoko suparništvo između 4 kluba od kojih svaki ima preko 20 titula. To su Korintians, Palmeiras, Santos i Sao Paolo. Iako je popularnost u opadanju i služi za zagrevanje za popularnije brazilsko nacionalno prvenstvo i Kopa Libertadores, Paulista je i dalje veliki rasadnik fudbalskih talenata koji bude interes brojnih evropskih klubova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326153000 +0200" stop="20170326160000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Emisija</title>
+    <desc lang="en">Na predlog francuskog novinara Gabriela Hanota 1955. godine osnovan je Kup prvaka, godišnje kontinentalno takmičenje u kojem nastupaju samo prvaci svojih država. Medijskom popularizacijom ovog formata 1992. godine osnovana je UEFA Liga šampiona, takmičenje za sve najbolje klubove Evrope. Plasman u Ligu šampiona klubovi ostvaruju rezultatom na ligaškim takmičenjima svoje države. Finale Lige šampiona postalo je televizijski najgledaniji fudbalski događaj na planeti. Najviše osvojenih titula prvaka Evrope ima madridski velikan Real</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326160000 +0200" stop="20170326180000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Zemun - Inđija</title>
+    <desc lang="en">Druga po redu na piramidi fudbalskog takmičenja u Srbiji je Prva liga Srbije. Osnovana je 2004. godine raspadom tadašnje države. U današnjem formatu liga broji 16 ekipa u dvokružnom sistemu takmičenja. Dve najbolje plasirane ekipe obezbeđuju direktan plasman u viši rang takmičenja dok trećeplasirani može kroz baraž sa 14. ekipom iz Superlige izboriti nastup u elitnom rangu srpskog fudbala. Neki od najboljih i najcenjenijih srpskih igrača prošli su drugoligaško fudbalsko odrastanje</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326180000 +0200" stop="20170326194500 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Crvena Zvezda - Spartak Moskva</title>
+    <desc lang="en">Prijateljska utakmica je sportski događaj koji nije takmičarski značajan ni za jednog od učesnika, bez obzira na konačni ishod. Prijateljske fudbalske utakmice se koriste za uigravanje timova za novu sezonu ili takmičarski meč</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326194500 +0200" stop="20170326213000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">Srbija - Švedska</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326213000 +0200" stop="20170326233000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">San Martin San Juan - Boca Juniors</title>
+    <desc lang="en">Prva zemlja izvan Ujedinjenog Kraljevstva koja je uspostavila svoju fudbalsku ligu je Argentina. Bilo je to davne 1891. godine te su pravo nastupa imale samo ekipe iz Buenos Ajresa i Rosarija. 1931. godine kada 18 klubova prelazi iz amaterskog u profesionalni rang argentinska liga dobija preteču svoje današnje verzije. Od 2014. godine liga broji 30 ekipa koje se u jednokružnom sistemu bore za titulu prvaka Argentine. Najviše titula broji legendarni River Plate iz Buenos Ajresa ali ga u stopu prati i njegov najveći rival Boka Juniors</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326233000 +0200" stop="20170327013000 +0200" channel="Arena sport 3 HD">
+    <title lang="en">River Plate - Belgrano</title>
+    <desc lang="en">River je zabeležio dva uzastopna poraza i daće sve od sebe da prekinu tu seriju. Belgrano se ne proslavlja u ovom ciklusu, ali dobar rezultat na Monumentalu mogao bi sve da promeni</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325000000 +0100" stop="20170325014500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Monaco - Dinamo Sassari</title>
+    <desc lang="en">Jedno od najmlađih kontinentalnih takmičenja za košarkaše u Evropi je nova Fibina ''Basketball Champions League''. Cilj ove lige je konkurisati organizaciji ''Euroleague Basketball S.L.'' i njenoj Evroligi koja obuhvata najjače evropske klubove. U ovakvoj ligi klubovi stiču pravo nastupa na temelju plasmana u vlastitim nacionalnim prvenstvima dok u Evroligi prava nastupa se stiče na temelju licenci. Sistem takmičenja se sastoji od dva kruga kvalifikacija, regularnog dela, plejofa i završnog turnira najbolje četvorice ili popularno zvani fajbal for. Završnica se održava krajem aprila meseca</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325014500 +0100" stop="20170325024500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Pregled Superlige</title>
+    <desc lang="en">Uz Ivana Radulovića ili Nenada Milovanovića videćete sve najinteresantnije detalje sa mečeva koji su odigrani u tom kolu. Pogledajte izbor najlepših pet golova u rubrici top 5, statističke podatke koji obuhvataju listu strelaca, kartone kao i posete na stadionu. U svakoj emisiji u studiju će biti predstavnik jednog od superligaša, a suđenje će komentarisati Igor Radojičić</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325024500 +0100" stop="20170325031500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">FIFA Football Magazin</title>
+    <desc lang="en">U emisiji FIFA magazin možete u tridesetak minuta videti vesti i zanimljive priče sa fudbalskih meridijana širom sveta. Od najpopularnijih klubova i reprezentacija do onih mesta gde je ovaj sport još uvek na niskim granama. Možete saznati od toga ko će debitivati za reprezentaciju Nemačke, ko je napravio disciplinski prekršaj u Realu ili Čelsiju do škole fudbala za najmlađe u sirotištu u Malaviju ili kako se ženska populacija sve više i ozbiljnije bavi fudbalom u Južnoj Koreji</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325031500 +0100" stop="20170325034500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Foot Brazil</title>
+    <desc lang="en">''Brasileirao Seria A'' je prva brazilska liga osnovana 1959. godine. Zbog geografskih razloga istorija jedinstve lige na području Brazila relativno je kratka. Tek razvojem civilne avijacije Brazil je dobio jedinstvenu fudbalsku ligu. U ligi trenutno sudeluje 20 ekipa u dvokružnom sistemu takmičenja. Tokom svog postojanja Serija A je fudbalskom svetu dala neke od najboljih igrača u Istoriji. Pele, Sokrates, Garinča i Ronaldinjo samo su jedni od njih. Izrazito napadačka i atraktivna orijentacija igre te fanatična i brojna podrška sa tribina su razlog što je Serija A jedno od najuzbudljivijih takmičenja na planeti</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325034500 +0100" stop="20170325041500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Mobil Auto</title>
+    <desc lang="en">Trku automobila možemo definisati kao trku dva ili više samostalno pogonjena vozila na unapred određenoj ruti. Prva takva trka dogodila se 1867. godine između Eštona i Old Traforda u Mančesteru na udaljenosti od osam milja, a pobedilo je vozilo engleskog pronalazača Isaka Vata Boultona. Razvojem automobilske industrije trke su postajale sve brže, mnogobrojnije, duže, kompleksnije i posećenije. Danas je automobilski sport jedan od medijski najpopraćenijih te svake godine privlači milione pristalica širom sveta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325041500 +0100" stop="20170325060000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Barcelona - PSG</title>
+    <desc lang="en">Na predlog francuskog novinara Gabriela Hanota 1955. godine osnovan je Kup prvaka, godišnje kontinentalno takmičenje u kojem nastupaju samo prvaci svojih država. Medijskom popularizacijom ovog formata 1992. godine osnovana je UEFA Liga šampiona, takmičenje za sve najbolje klubove Evrope. Plasman u Ligu šampiona klubovi ostvaruju rezultatom na ligaškim takmičenjima svoje države. Finale Lige šampiona postalo je televizijski najgledaniji fudbalski događaj na planeti. Najviše osvojenih titula prvaka Evrope ima madridski velikan Real</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325060000 +0100" stop="20170325080000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Toronto - Columbus</title>
+    <desc lang="en">''Natonal Hockey League'' je najprestižnije klupsko hokejaško takmičenje na svetu koje datira još iz 1917. godine kada je takmičenje formirano i funkcionisalo je sa još dve severnoameričke hokejšake asocijacije. Od 1926. NHL postaje glavna i najznačajnija hokejaška asocijacija i samim time takmičenje u Severnoj Americi. Samo takmičenje je podeljeno u dve divizije, zapadnu i istočnu te se nakon regularnog dela igra plejof za trofej Stenli kupa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325080000 +0100" stop="20170325090000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">U obruču</title>
+    <desc lang="en">Najbolja košarkaška emisija u ovom delu Evrope. Najatraktivniji gosti u sendviču Edina i Koleta. Sve što ste želeli da znate o košarkaškoj nedelji, nema potrebe da pitate. Jer tu je SVE!</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325090000 +0100" stop="20170325110000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Čukarički - Crvena zvezda</title>
+    <desc lang="en">Srpska Superliga svoju premijeru imala je u sezoni 2006.-2007. U današnjem sistemu liga broji 16 ekipa i funkcioniše po dvokružnom principu takmičenju. Istoriju Superlige u najvećoj meri su obeležila dva velika beogradska rivala, Partizan i Crvena Zvezda. Istorijski gledano, po broju osvojenih titula crveno-beli do grada je uspešniji. Najbolji strelac u istoriji lige je Andrija Kaluđerović koji je mrežu protivnika tresao 61 put igrajući za razne prvoligaške klubove</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325110000 +0100" stop="20170325120000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">WPT 14</title>
+    <desc lang="en">Poker pripada porodici kartaških igara u kojoj se igrači takmiče sa zatvorenim ili delomično zatvorenim kartama. Danas razlikujemo više različitih varijanti pokera, a sve uključuju klađenje kao esencijalan deo same igre. Veruje se da se preteča današnjeg pokera igrala u Persiji dok prvi pisani dokazi govore o igrama u Nju Orleansu u 19. veku. Zlatna groznica zaslužna je za širenje igre duž Amerike. Godinama su se menjala pravila, a tek 70-ih godina prošlog veka i osnivanjem Vorld sirijes turnira pravila su se standardizovala. Danas je poker televizijski pokriven sport sa vojskom fanova po celom svetu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325120000 +0100" stop="20170325134500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Butler - North Carolina</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325134500 +0100" stop="20170325141500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">FIFA Football Magazin</title>
+    <desc lang="en">U emisiji FIFA magazin možete u tridesetak minuta videti vesti i zanimljive priče sa fudbalskih meridijana širom sveta. Od najpopularnijih klubova i reprezentacija do onih mesta gde je ovaj sport još uvek na niskim granama. Možete saznati od toga ko će debitivati za reprezentaciju Nemačke, ko je napravio disciplinski prekršaj u Realu ili Čelsiju do škole fudbala za najmlađe u sirotištu u Malaviju ili kako se ženska populacija sve više i ozbiljnije bavi fudbalom u Južnoj Koreji</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325141500 +0100" stop="20170325153000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Mladost - Mornar</title>
+    <desc lang="en">Jadranska vaterpolo liga ili sponzorski naziv Triglav regionalna liga je regionalno vaterpolo takmičenje u kojoj se od jeseni 2008. godine takmiče crnogorski, hrvatski, slovenački klubovi, kasnije i talijanski te srpski klubovi. Prva sezona, koja je počela 26. septembra 2008., okupljala je 12 klubova, 8 iz Hrvatske, 3 iz Crne Gore i 1 iz Slovenije. Za godinu osnitka se uzima ista ta 2008. godina kada je odluka donešena u Dubrovniku na kvalifikacionom turniru za Evropsko prvenstvo. Nakon prve sezone ligi su se priključili i italijanski predstavnici koji si ubrzo odustali, dok od 2014. godine liga broji i klubove iz Srbije</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325153000 +0100" stop="20170325160000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Magazin</title>
+    <desc lang="en">FINA ili Međunarodna plivačka organizacija od 1973. godine organizuje Svetska prvenstva u vodenim sportovima, ujedno prvo takmičenje se održalo te godine u Jugoslaviji u Beogradu. Takmičenja su se u periodu od 1978.-1998. godine održavala svake četvrte godine, dok od 2001. godine se održavaju svake dve neparne godine kako se ne bi termini poklapali sa olimpijskim igrama. Velika zainteresovanost za ovo prvenstvo proizlazi iz velikog broja plivačkih disciplina i takmičenja koje se održavaju. Na programu su plivanje, ronjenje, duboko ronjenje, plivanje na otvorenom, sinhronizovano plivanje i vaterpolo</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325160000 +0100" stop="20170325180000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Leinster - Cardiff</title>
+    <desc lang="en">Da bi zadržali čelo tabele, domaći moraju da prežive neugodne Velšane</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325180000 +0100" stop="20170325181500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Pregled Endesa lige</title>
+    <desc lang="en">Španska košarkaška liga osnovana je 1957. godine kao ''Liga National'' te je današnji format dobila 1983. godine kada organizacija ACB preuzima kontrolu nad takmičenjem. Prema bodovanju, Liga ACB jedna je od tri najbolje evropske lige. Trenutno u ligi sudeluje 18 ekipa koje u toku sezone po dva puta igraju međusobno. Ekipa sa najviše osvojenih titula je madridski Real ali u stopu ga prati i Barselona. Španska liga kroz istoriju nam je dala neke od najvećih svetskih igrača i trenera</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325181500 +0100" stop="20170325201500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Glasgow - Connacht</title>
+    <desc lang="en">U sudaru dva poslednja prvaka poraženi se oprašta od borbe za Kupom šampiona naredne sezone</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325201500 +0100" stop="20170325211500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Sapp Blatter and FIFA</title>
+    <desc lang="en">Krovna fudbalska organizacija FIFA osnovana je 1904. godine od strane nacionalnih saveza Belgije, Danske, Francuske, Holandije, Nemačke, Španije, Švedske i Švajcarske kako bi nadzirala međunarodna fudbalska takmičenja. Danas FIFA broji više od 200 zemalja članica. Uslov da fudbalski savez postane član FIFE mora pre toga biti član neke od nadležnih kontinentalnih fudbalskih organizacija. Pod Fifinom ingerencijom se održava niz međunarodnih fudbalskih takmičenja za muškarce i žene od kojih je svetsko prvenstvo u fudbalu najpoznatiji fudbalski turnir uopšte</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325211500 +0100" stop="20170325230000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Srbija - Švedska</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170325230000 +0100" stop="20170326003000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Zagreb - Veszprém</title>
+    <desc lang="en">Rukometna Liga šampiona svoje začetke ima još od 1955. godine kada je takmičenje osnovano pod nazivom Kup Prvaka. Prvog pobednika smo dobili u sezoni 1956.-1957. godine, a to je bila ekipa Praga jer u toj sezoni su nastupale samo gradske selekcije. Danas se taj klub zove Dukla Prag. Sve do 1993. godine takmičenje se održalo pod tim nazivom i igralo se po kup sistemu na ispadanje. Od 1993. godine osim promene naziva u Ligu šampiiona uvedena je i grupna faza takmičenja nakon koje slede eliminacije. Grupna faza se sa godinama menjala te je uveden i Fajnal for za četiri najbolje rukometne ekipe Evrope nakon koje se dobija prvak</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326003000 +0100" stop="20170326031500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Partizan - Cedevita</title>
+    <desc lang="en">ABA liga je osnovana od strane najboljih košarkaških klubova iz Bosne i Hercegovine, Crne Gore, Hrvatske, Srbije i Slovenije. Kao takva sastoji se od klubova sa prostora bivše SFRJ te su u njoj još učestvovali predstavnici Mađarske, Bugarske, Izraela i Češke. U nekoliko navrata je menjala i naziv u zavisnosti od sponzora, a danas joj je službeni naziv ''Adriatic Basketball Association (ABA) League''. Takmičenje se igra u dva dela, prvi deo se odvija tako što sve ekipe igraju po dve utakmice, svako, sa svakim, jednu na domaćem i jednu na gostujućem terenu, odnosno po dvokružnom liga sistemu. Drugio deo takmičenja odnosno plejof se razlikovao od sezone do sezone</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326031500 +0100" stop="20170326034500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Pregled francuske lige</title>
+    <desc lang="en">Ligue 1 prva je francuska profesionalna fudbalska liga koja broji 20 ekipa u borbi za titulom prvaka Francuske. Osnovana je 1932. godine i smatra se jednom od najcenjenijih evropskih liga. Najtrofejniji klub s deset osvojenih titula je AS Sent Etjen ali ''Zeleni'' na novu titulu čekaju još od davne 1981. godine i vremena velikog Mišela Platinija. Susreti francuske lige nezaobilazan su događaj za svakog ljubitelja ove veličanstvene igre</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326034500 +0100" stop="20170326041500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Pregled Serie A</title>
+    <desc lang="en">U emisiji pregled kola Italijanske lige možete videti izveštaje sa svih utakmica i najinterasantnije detalje iz prethodnog kola Serie A. Uz Dijanu Čolović u tridesetak minuta pogledajte sve što ste eventualno propustili kada su u pitanju utakmice Serie A. Poseban osvrt biće na derbijima kola i najinteresantnijim utakmicama. U emisiji saznajete o učinku igrača iz regiona koji imaju vrlo važnu ulogu u određenom broju klubova u Italijanskoj ligi</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326041500 +0100" stop="20170326060000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Monaco - Manchester City</title>
+    <desc lang="en">Ako je meriti po prvih 90 minuta, meč na stadionu ''Lui II'' će biti lep za gledanje i efikasan. Može li Monako da nadoknadi dva gola zaostatka?</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326060000 +0100" stop="20170326080000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Škotska - Italija</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326080000 +0100" stop="20170326090000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Diplomat</title>
+    <desc lang="en">Priča o Katarini Vit, bivšoj klizačici i jednoj od najtrofejnijih sportista Istočne Nemačke. Pored sportskih uspeha priča pokriva i njenu borbu za bolje sutra, pre i posle pada berlinskog zida</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326090000 +0100" stop="20170326110000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Crvena Zvezda - Spartak Moskva</title>
+    <desc lang="en">Prijateljska utakmica je sportski događaj koji nije takmičarski značajan ni za jednog od učesnika, bez obzira na konačni ishod. Prijateljske fudbalske utakmice se koriste za uigravanje timova za novu sezonu ili takmičarski meč</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326110000 +0100" stop="20170326120000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">WPT 14</title>
+    <desc lang="en">Poker pripada porodici kartaških igara u kojoj se igrači takmiče sa zatvorenim ili delomično zatvorenim kartama. Danas razlikujemo više različitih varijanti pokera, a sve uključuju klađenje kao esencijalan deo same igre. Veruje se da se preteča današnjeg pokera igrala u Persiji dok prvi pisani dokazi govore o igrama u Nju Orleansu u 19. veku. Zlatna groznica zaslužna je za širenje igre duž Amerike. Godinama su se menjala pravila, a tek 70-ih godina prošlog veka i osnivanjem Vorld sirijes turnira pravila su se standardizovala. Danas je poker televizijski pokriven sport sa vojskom fanova po celom svetu</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326120000 +0100" stop="20170326134500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Košarka - NCAA</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326134500 +0100" stop="20170326144500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Pregled Superlige</title>
+    <desc lang="en">Uz Ivana Radulovića ili Nenada Milovanovića videćete sve najinteresantnije detalje sa mečeva koji su odigrani u tom kolu. Pogledajte izbor najlepših pet golova u rubrici top 5, statističke podatke koji obuhvataju listu strelaca, kartone kao i posete na stadionu. U svakoj emisiji u studiju će biti predstavnik jednog od superligaša, a suđenje će komentarisati Igor Radojičić</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326144500 +0100" stop="20170326161500 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Košarka - NCAA</title>
+    <desc lang="en">NCAA je najpoznatiji košarkaški turnir univerziteta na svetu! Obavezno i ovog proljeća pratite ko će biti najbolja univerzitetska ekipa u SADu i koje će možda buduće NBA zvezde zablistati</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326161500 +0100" stop="20170326180000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Juventus - Porto</title>
+    <desc lang="en">Na predlog francuskog novinara Gabriela Hanota 1955. godine osnovan je Kup prvaka, godišnje kontinentalno takmičenje u kojem nastupaju samo prvaci svojih država. Medijskom popularizacijom ovog formata 1992. godine osnovana je UEFA Liga šampiona, takmičenje za sve najbolje klubove Evrope. Plasman u Ligu šampiona klubovi ostvaruju rezultatom na ligaškim takmičenjima svoje države. Finale Lige šampiona postalo je televizijski najgledaniji fudbalski događaj na planeti. Najviše osvojenih titula prvaka Evrope ima madridski velikan Real</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326180000 +0100" stop="20170326183000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">KOTV Weekly</title>
+    <desc lang="en">U tridesetak minuta saznajte koje su to najiteresantnije bokserske borbe bile u prethodnom periodu, i saznajte najsvežije vesti iz ringa protekle nedelje. Uz reportaže o bokserima, njihovim trenerima i događajima približite se svetu boksa</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326183000 +0100" stop="20170326203000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Estudiantes - Baskonia</title>
+    <desc lang="en">Španska košarkaška liga osnovana je 1957. godine kao ''Liga National'' te je današnji format dobila 1983. godine kada organizacija ACB preuzima kontrolu nad takmičenjem. Prema bodovanju, Liga ACB jedna je od tri najbolje evropske lige. Trenutno u ligi sudeluje 18 ekipa koje u toku sezone po dva puta igraju međusobno. Ekipa sa najviše osvojenih titula je madridski Real ali u stopu ga prati i Barselona. Španska liga kroz istoriju nam je dala neke od najvećih svetskih igrača i trenera</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326203000 +0100" stop="20170326210000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">ABS Show</title>
+    <desc lang="en">Trku automobila možemo definisati kao trku dva ili više samostalno pogonjena vozila na unapred određenoj ruti. Prva takva trka dogodila se 1867. godine između Eštona i Old Traforda u Mančesteru na udaljenosti od osam milja, a pobedilo je vozilo engleskog pronalazača Isaka Vata Boultona. Razvojem automobilske industrije trke su postajale sve brže, mnogobrojnije, duže, kompleksnije i posećenije. Danas je automobilski sport jedan od medijski najpopraćenijih te svake godine privlači milione pristalica širom sveta</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326210000 +0100" stop="20170326230000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Crvena Zvezda - Spartak Moskva</title>
+    <desc lang="en">Prijateljska utakmica je sportski događaj koji nije takmičarski značajan ni za jednog od učesnika, bez obzira na konačni ishod. Prijateljske fudbalske utakmice se koriste za uigravanje timova za novu sezonu ili takmičarski meč</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326230000 +0100" stop="20170326233000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Foot Brazil</title>
+    <desc lang="en">''Brasileirao Seria A'' je prva brazilska liga osnovana 1959. godine. Zbog geografskih razloga istorija jedinstve lige na području Brazila relativno je kratka. Tek razvojem civilne avijacije Brazil je dobio jedinstvenu fudbalsku ligu. U ligi trenutno sudeluje 20 ekipa u dvokružnom sistemu takmičenja. Tokom svog postojanja Serija A je fudbalskom svetu dala neke od najboljih igrača u Istoriji. Pele, Sokrates, Garinča i Ronaldinjo samo su jedni od njih. Izrazito napadačka i atraktivna orijentacija igre te fanatična i brojna podrška sa tribina su razlog što je Serija A jedno od najuzbudljivijih takmičenja na planeti</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20170326233000 +0100" stop="20170327013000 +0100" channel="Arena sport 4 HD">
+    <title lang="en">Sao Bento - Ponte Preta</title>
+    <desc lang="en">Najstarija fudbalska liga u Brazila pod nazivom ''Campeonato Paulista'' započela je svoju prvu sezonu davne 1902. godine. Klubovi su se profesionalizovali nešto kasnije odnosno 30ih godina 20. veka. Ova liga obuhvata klubove brazilske države Sao Paolo unutar koje se više od jednog veka vodi žestoko suparništvo između 4 kluba od kojih svaki ima preko 20 titula. To su Korintians, Palmeiras, Santos i Sao Paolo. Iako je popularnost u opadanju i služi za zagrevanje za popularnije brazilsko nacionalno prvenstvo i Kopa Libertadores, Paulista je i dalje veliki rasadnik fudbalskih talenata koji bude interes brojnih evropskih klubova</desc>
+    <category lang="en">Sport</category>
+  </programme>
+</tv>
